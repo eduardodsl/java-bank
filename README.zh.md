@@ -4,8 +4,8 @@
 
 ## 其他言语：
 
-* English;
-* Português;
+* [English](https://github.com/eduardodsl/java-bank/blob/main/README.md);
+* [Português](https://github.com/eduardodsl/java-bank/blob/main/README.pt.md);
 
 ## 功能
 

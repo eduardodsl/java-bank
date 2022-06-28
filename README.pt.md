@@ -5,8 +5,8 @@ de um banco que serve como base de dados, contendo clientes, contas, e transaç�
 
 ## Outros Idiomas
 
-* 中文;
-* English;
+* [中文](https://github.com/eduardodsl/java-bank/blob/main/README.zh.md);
+* [English](https://github.com/eduardodsl/java-bank/blob/main/README.md);
 
 ## Características
 
