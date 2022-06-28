@@ -34,6 +34,7 @@ public class ReportActions {
                 List<Transaction> transactions = DB.fetchTransactions(session.getBank(), acc);
                 report += Index.mainHeader("ACCOUNT REPORT");
                 report += acc.print()+"\n";
+                report += Index.separator()+"\n";
                 Iterator<Transaction> it = transactions.iterator();
                 while(it.hasNext()){
                     Transaction next = it.next();

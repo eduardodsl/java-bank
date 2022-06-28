@@ -47,8 +47,13 @@ public class Format {
     }
 
     /**
-     * Adds to text terminal colors.<br>
-     * Possible colors: red, green and yellow
+     * <p>Adds color to terminal text.</p>
+     * <p>Possible colors:</>
+     * <ul>
+     *  <li>red</li>
+     *  <li>green</li>
+     *  <li>yellow</li>
+     * </ul>
      * @param text
      * @param color
      * @return String
